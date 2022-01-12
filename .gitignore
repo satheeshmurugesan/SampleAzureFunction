@@ -2,6 +2,7 @@
 target/
 *.class
 src/
+*.*
 
 # Log file
 *.log
